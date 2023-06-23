@@ -19,7 +19,7 @@ export default function Home() {
                     <div className={"my-5"}>
                         <h2 className={"text-white bg-joslightblue w-fit  text-2xl"}>Inschrijvingen</h2>
                         <p>De inschrijvingen starten op 1 juli 2023.</p>
-                        <p>Je kan kiezen tussen de kidstour (1 km), de korte tour (7 km) en de lange tour (11 km).</p>
+                        <p>Je kan kiezen tussen de kidstour (500 m), de korte tour (7 km) en de lange tour (11 km).</p>
                     </div>
                     <div className={"my-5"}>
                         <h2 className={"text-white bg-josyellow w-fit  text-2xl"}>T-shirts</h2>
