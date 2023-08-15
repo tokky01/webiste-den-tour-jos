@@ -18,15 +18,13 @@ export default function Home() {
                     </div>
                     <div className={"my-5"}>
                         <h2 className={"text-white bg-joslightblue w-fit  text-2xl"}>Inschrijvingen</h2>
-                        <p>De inschrijvingen starten op 1 juli 2023.</p>
+                        <p> Inschrijven kan via </p>
+                        <p><a className={"font-bold underline"} href={"https://forms.gle/n8Wgs6AgjsuredBs7"}>deze link. </a></p>
                         <p>Je kan kiezen tussen de kidstour (500 m), de korte tour (7 km) en de lange tour (11 km).</p>
                     </div>
                     <div className={"my-5"}>
                         <h2 className={"text-white bg-josyellow w-fit  text-2xl"}>T-shirts</h2>
-                        <p>Zoals elk jaar kunnen jullie ook dit jaar den tour in een super toffe JOS-t-shirt lopen. Deze
-                            kan
-                            je
-                            bestellen via het inschrijvingsformulier.</p>
+                        <p>Dit jaar zullen er geen t-shirts van Den Tour van Jos beschikbaar zijn.</p>
                     </div>
                     <div className={"my-5 "}>
                         <h2 className={"text-white bg-joslightorange w-fit  text-2xl"}>Foto&apos;s</h2>
@@ -35,8 +33,9 @@ export default function Home() {
                             de foto&apos;s via onze Facebook.</a></p>
                     </div>
                     <div className={"my-5"}>
-                        <h2 className={"text-white bg-josorange w-fit  text-2xl"}>Vragen</h2>
-                        <p>Zit je nog met een vraag? Stuur ons gerust een mailtje:</p>
+                        <h2 className={"text-white bg-josorange w-fit  text-2xl"}>Seingevers gezocht!</h2>
+                        <p>Loop je niet graag mee, maar wil je ons toch helpen? Dan is seingever zijn het perfecte alternatief! 
+                          <p>Stuur een berichtje naar 0473 22 98 01 voor verdere afspraken!</p>
                         <p><a href={"mailto:joggingnederokkerzeel@gmail.com"}>joggingnederokkerzeel@gmail.com</a></p>
                     </div>
                 </div>
