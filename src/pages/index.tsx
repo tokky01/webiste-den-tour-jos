@@ -34,7 +34,7 @@ export default function Home() {
                     </div>
                     <div className={"my-5"}>
                         <h2 className={"text-white bg-josorange w-fit  text-2xl"}>Seingevers gezocht!</h2>
-                        <p>Loop je niet graag mee, maar wil je ons toch helpen? Dan is seingever zijn het perfecte alternatief! 
+                        <p>Loop je niet graag mee, maar wil je ons toch helpen? Dan is seingever zijn het perfecte alternatief!</p> 
                           <p>Stuur een berichtje naar 0473 22 98 01 voor verdere afspraken!</p>
                         <p><a href={"mailto:joggingnederokkerzeel@gmail.com"}>joggingnederokkerzeel@gmail.com</a></p>
                     </div>
