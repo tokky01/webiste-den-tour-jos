@@ -18,8 +18,7 @@ export default function Home() {
                     </div>
                     <div className={"my-5"}>
                         <h2 className={"text-white bg-joslightblue w-fit  text-2xl"}>Inschrijvingen</h2>
-                        <p> Inschrijven kan via </p>
-                        <p><a className={"font-bold underline"} href={"https://forms.gle/n8Wgs6AgjsuredBs7"}>deze link. </a></p>
+                        <p> Heb je je nog niet ingeschreven maar wil je toch meelopen? Dat kan!. Zondag zelf kan je je nog inschrijven op locatie. Tot dan! </p>
                         <p>Je kan kiezen tussen de kidstour (500 m), de korte tour (7 km) en de lange tour (11 km).</p>
                     </div>
                     <div className={"my-5"}>
