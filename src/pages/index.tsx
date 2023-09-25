@@ -13,21 +13,22 @@ export default function Home() {
                 <div className={"flex flex-col  my-24 font-barlow justify-center text-xl"}>
                     <div className={"my-5"}>
                         <h1 className={"text-white bg-josblue w-fit text-2xl"}>Den tour 2023</h1>
-                        <p>De zesde editie van den tour van Jos wordt dit jaar georganiseerd door de Scouts van
-                            Nederokkerzeel. Maar ook dit jaar zullen we er een top-jogging van maken!</p>
+                        <p>De zesde editie van den tour van Jos werd dit jaar georganiseerd door de Scouts van
+                            Nederokkerzeel. Hoperlijk hebben jullie er allemaal van genoten!</p>
                     </div>
                     <div className={"my-5"}>
-                        <h2 className={"text-white bg-joslightblue w-fit  text-2xl"}>Inschrijvingen</h2>
-                        <p> Heb je je nog niet ingeschreven maar wil je toch meelopen? Dat kan! Zondag zelf kan je je nog inschrijven op locatie. Tot dan! </p>
-                        <p>Je kan kiezen tussen de kidstour (500 m), de korte tour (7 km) en de lange tour (11 km).</p>
-                    </div>
+                        <h2 className={"text-white bg-joslightblue w-fit  text-2xl"}>Resultaten</h2>
+                        <p> De resultaten van de tour vind je op de site van SportU, of via volgende link: </p>
+                        <p><a className={"font-bold underline"} href={"https://www.sportu.be/pages/Result.php?q=../XML/Races2023.xml"}> De resultaten van de korte tour.</a></p>
+                    <div className={"my-5"}>
+                          <p><a className={"font-bold underline"} href={"https://www.sportu.be/pages/Result.php?q=../XML/Races2023.xml"}> De resultaten van de lange tour.</a></p>
                     <div className={"my-5"}>
                         <h2 className={"text-white bg-josyellow w-fit  text-2xl"}>T-shirts</h2>
                         <p>Dit jaar zullen er geen t-shirts van Den Tour van Jos beschikbaar zijn.</p>
                     </div>
                     <div className={"my-5 "}>
                         <h2 className={"text-white bg-joslightorange w-fit  text-2xl"}>Foto&apos;s</h2>
-                        <p>Graag nog eens terugblikken naar de jogging van vorig jaar?</p>
+                        <p>Graag nog eens terugblikken naar de jogging? Binnenkort komen de foto's online! </p>
                         <p><a className={"font-bold underline"} href={"https://www.facebook.com/tourvanjos/photos/"}>Bekijk
                             de foto&apos;s via onze Facebook.</a></p>
                     </div>
