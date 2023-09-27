@@ -17,11 +17,9 @@ export default function Home() {
                             Nederokkerzeel. Hoperlijk hebben jullie er allemaal van genoten!</p>
                     </div>
                         <h2 className={"text-white bg-joslightblue w-fit  text-2xl"}>Resultaten</h2>
-                        <p> De resultaten van de tour vind je op de site van SportU, of via volgende link: </p>
-                        <p><a className={"font-bold underline"} href={"https://www.sportu.be/pages/Result.php?q=../XML/Races2023.xml"}> De resultaten van de korte tour.</a></p>
-                    <div className={"my-5"}>
-                          <p><a className={"font-bold underline"} href={"https://www.sportu.be/pages/Result.php?q=../XML/Races2023.xml"}> De resultaten van de lange tour.</a></p>
-                    <div className={"my-5"}>
+                       <p>Benieuwd naar de resultaten? </p>
+                    <p><a className={"font-bold underline"} href={"https://www.sportu.be/pages/Result.php?q=../XML/Races2023.xml"}>Via deze link vind je ze terug!</a></p>
+                    </div>
                         <h2 className={"text-white bg-josyellow w-fit  text-2xl"}>T-shirts</h2>
                         <p>Dit jaar zullen er geen t-shirts van Den Tour van Jos beschikbaar zijn.</p>
                     </div>
