@@ -14,20 +14,16 @@ export default function Home() {
                     <div className={"my-5"}>
                         <h1 className={"text-white bg-josblue w-fit text-2xl"}>Den tour 2023</h1>
                         <p>De zesde editie van den tour van Jos werd dit jaar georganiseerd door de Scouts van
-                            Nederokkerzeel. Hoperlijk hebben jullie er allemaal van genoten!</p>
+                            Nederokkerzeel. Hopenlijk hebben jullie er allemaal even hard van genoten als wij!</p>
                     </div>
                         <h2 className={"text-white bg-joslightblue w-fit  text-2xl"}>Resultaten</h2>
-                       <p>Benieuwd naar de resultaten? </p>
-                    <p><a className={"font-bold underline"} href={"https://www.sportu.be/pages/Result.php?q=../XML/Races2023.xml"}>Via deze link vind je ze terug!</a></p>
-                    </div>
+                       <p>Benieuwd naar de resultaten? Ga naar de site van SportU, ga naar resultaten en selecteer de juiste categorie.</p>
                         <h2 className={"text-white bg-josyellow w-fit  text-2xl"}>T-shirts</h2>
                         <p>Dit jaar zullen er geen t-shirts van Den Tour van Jos beschikbaar zijn.</p>
                     </div>
                     <div className={"my-5 "}>
                         <h2 className={"text-white bg-joslightorange w-fit  text-2xl"}>Foto&apos;s</h2>
-                        <p>Graag nog eens terugblikken naar de jogging? Binnenkort komen de foto's online! </p>
-                        <p><a className={"font-bold underline"} href={"https://www.facebook.com/tourvanjos/photos/"}>Bekijk
-                            de foto&apos;s via onze Facebook.</a></p>
+                        <p>Graag nog eens terugblikken naar de jogging? De foto's staan online op onze Facebook-pagina! </p>
                     </div>
                     <div className={"my-5"}>
                         <h2 className={"text-white bg-josorange w-fit  text-2xl"}>Seingevers gezocht!</h2>
