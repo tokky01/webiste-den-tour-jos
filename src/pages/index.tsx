@@ -16,6 +16,7 @@ export default function Home() {
                         <p>De zesde editie van den tour van Jos werd dit jaar georganiseerd door de Scouts van
                             Nederokkerzeel. Hopenlijk hebben jullie er allemaal even hard van genoten als wij!</p>
                     </div>
+                    <div className={"my-5 "}>
                         <h2 className={"text-white bg-joslightblue w-fit  text-2xl"}>Resultaten</h2>
                        <p>Benieuwd naar de resultaten? Ga naar de site van SportU, ga naar resultaten en selecteer de juiste categorie.</p>
                         <h2 className={"text-white bg-josyellow w-fit  text-2xl"}>T-shirts</h2>
