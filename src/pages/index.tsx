@@ -24,7 +24,7 @@ export default function Home() {
                     </div>
                     <div className={"my-5 "}>
                         <h2 className={"text-white bg-joslightorange w-fit  text-2xl"}>Foto&apos;s</h2>
-                        <p>Graag nog eens terugblikken naar de jogging? De foto's staan online op onze Facebook-pagina! </p>
+                        <p>Graag nog eens terugblikken naar de jogging? De foto&apos;s staan online op onze Facebook-pagina! </p>
                     </div>
                     <div className={"my-5"}>
                         <h2 className={"text-white bg-josorange w-fit  text-2xl"}>Seingevers gezocht!</h2>
